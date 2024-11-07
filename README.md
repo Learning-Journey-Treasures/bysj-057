@@ -20,3 +20,4 @@
 ![输入图片说明](9.png)
 
 # 4.获取方式
+[戳我查看](https://gitee.com/aven999/mall)
